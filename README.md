@@ -1,10 +1,4 @@
-# Statistical-Analysis-for-Simple-Linear-Regression
-
-Welcome to our GitHub project list! Here, we showcase our diverse range of projects aimed at exploring and applying various technologies and methodologies. Each project reflects our commitment to innovation, problem-solving, and collaborative development. Feel free to explore, contribute, and provide feedback.
-
----
-
-## Project 1: Statistical Analysis for Simple Linear Regression
+##  Statistical Analysis for Simple Linear Regression
 
 ### Aim
 
