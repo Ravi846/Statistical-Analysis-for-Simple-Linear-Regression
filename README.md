@@ -9,7 +9,7 @@ This project revolves around the integration of statistical tools with the devel
 - **R Shiny App:** We've built a user-friendly interface using the R Shiny package. The app allows users to input parameters through graphical controls like sliders, drop-downs, and text fields.
 - **Real-time Analysis:** The app dynamically modifies outputs as users interact with the interface. Every change in input selection immediately updates the corresponding outputs.
 - **Data Integration:** Users can upload their own datasets, enabling personalized analysis based on specific conditions and requirements.
-- **Online Access:** You can access the live version of the app [here](http://simplelinearregressioncp.shinyapps.io/Myapp).
+- **Online Access:** You can access the live version of the app [here](http://simplelinearregressioncp.shinyapps.io/Myapp) and just upload csv file and explore my work. 
 
 ### Skills Utilized
 
